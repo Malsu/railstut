@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  activity: MyString
+  concept: MyString
+  provider: MyString
+  last_done_dt_tm: 2017-12-15 14:40:28
+  result: MyString
+  notes: MyString
+  next_due_dt_tm: 2017-12-15 14:40:28
+  period: MyString
+  program: MyString
+  cost: 
+  cost: 
+
+two:
+  activity: MyString
+  concept: MyString
+  provider: MyString
+  last_done_dt_tm: 2017-12-15 14:40:28
+  result: MyString
+  notes: MyString
+  next_due_dt_tm: 2017-12-15 14:40:28
+  period: MyString
+  program: MyString
+  cost: 
+  cost: 
